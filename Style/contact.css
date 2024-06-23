@@ -1,0 +1,49 @@
+/*DEVELOPER: Rania Emam, IS117-011, Summer 2024 */
+/* the styles for the elements */
+* {
+	margin: 0 auto;
+	padding: 0 auto;
+	font-style: bold;
+}
+html {
+	background-color: white;
+}
+body {
+	font-family: "Roboto Thin", Helvetica, sans-serif;
+    font-size: 100%;
+    width: auto;
+    margin: auto;
+}
+a:focus, a:hover {
+	font-style: bold;
+}
+
+/* the styles for the header */
+header {
+	padding: 1.5em 0 2em 0;}
+header h2 {
+	font-size: 175%;
+	padding-top: 20px;
+}
+header img {
+	float: left;
+}
+
+/* the styles for the navigation menu */
+.nav-item{
+	padding: 0 75px;
+}
+/* the styles for the main */
+h2{
+	margin: 20px;
+	padding: 10px 10px 0 10px;
+}
+/* the styles for the footer */
+footer {
+	clear: both;
+}
+footer p {
+	text-align: center;
+	color: black;
+	padding: 1em 0;
+}
